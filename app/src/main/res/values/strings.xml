@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dagger_Hilt</string>
+    <string name="inject_string">This is a string we are injecting22</string>
+</resources>
